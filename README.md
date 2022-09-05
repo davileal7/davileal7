@@ -1,6 +1,6 @@
 ### Olá! sou  Davi Moreira Leal 👋
 
--  Atualmente estou aprendendo Python, HTML5/CSS3, iniciando JavaScript.
+-  Atualmente aprendendo Python, HTML5/CSS3, iniciando JavaScript.
 -  Curso Análise e Desenvolvimento de Sistemas - 2° Semestre.
 -  Busco minha primeira oportunidade profissional.
 -  e-mail: davi_m_leal@hotmail.com
