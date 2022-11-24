@@ -1,7 +1,8 @@
 ### Olá! sou  Davi Moreira Leal 👋
 
--  Atualmente aprendendo Python, HTML5/CSS3, iniciando JavaScript.
--  Curso Análise e Desenvolvimento de Sistemas - 2° Semestre.
+-  Trilhando um caminho na área da tecnologia da informação, programação e web developer. 
+-  Road Map - Front End
+-  Curso Análise e Desenvolvimento de Sistemas - 2° Semestre (Unip).
 -  e-mail: davi_m_leal@hotmail.com
 
 ##
