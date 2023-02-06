@@ -1,7 +1,7 @@
 ### Olá! sou  Davi Moreira Leal 👋
 
 -  Trilhando um caminho na área da tecnologia da informação, programação e web developer. 
--  Curso Análise e Desenvolvimento de Sistemas - 2° Semestre (Unip).
+-  Curso Análise e Desenvolvimento de Sistemas - 3° Semestre (Unip).
 -  e-mail: davi_m_leal@hotmail.com
 
 ##
