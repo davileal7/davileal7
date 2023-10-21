@@ -1,7 +1,8 @@
 ### Olá! sou  Davi Moreira Leal 👋
 
--  Trilhando um caminho na área da tecnologia da informação, programação e web developer. 
--  Curso Análise e Desenvolvimento de Sistemas - 3° Semestre (Unip).
+-  Trilhando um caminho na área da tecnologia da informação, programação e web developer.
+-  Atualmente atuanto como programador em automações em sites (com python) e web devepoler na empresa SK-VISSOL
+-  Curso Análise e Desenvolvimento de Sistemas - 4° Semestre (Unip).
 -  e-mail: davi_m_leal@hotmail.com
 
 ##
